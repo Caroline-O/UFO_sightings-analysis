@@ -4,10 +4,10 @@ The purpose of the porject is to further develop an existing webpage's capabilit
 
 ## Results
 To narrow one's search, filters can be applied to each of the five categories:  date, city, state, country, and shape.
-![filters
+![filters](static/images/filters.png)
 
 The code is written such that a change to any one of the filters is noticed and added to filters variable containing the id of the filter as well as the specified value.  The code then signals for only data meeting all filter specifications to display in the table on the website.
-![code]
+![code](static/images/code.png)
 
 ## Summary
 One drawback to the webpage is that users do not know all values to use as inputs for the filters. For example, they may not know all possible UFO shapes and all the cities, states, and coutnries where the sightings occured.  This requires users to do their own research and troublshoot their filtering parameters.
